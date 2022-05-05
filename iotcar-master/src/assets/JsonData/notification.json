@@ -1,0 +1,18 @@
+[
+	{
+		"icon": "bx bx-error",
+		"content": "Door isn't locked properly"
+	},
+	{
+		"icon": "bx bx-package",
+		"content": "Your Car is on the way to Goa"
+	},
+	{
+		"icon": "bx bx-error",
+		"content": "Speed Down"
+	},
+	{
+		"icon": "bx bx-package",
+		"content": "Commad Received"
+	}
+]

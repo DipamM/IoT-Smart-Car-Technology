@@ -1,0 +1,47 @@
+[
+	{
+		"display_name": "Dashboard",
+		"route": "/",
+		"icon": "bx bx-category-alt"
+	},
+	{
+		"display_name": "Drivers",
+		"route": "/drivers",
+		"icon": "bx bx-user-pin"
+	},
+	{
+		"display_name": "Tracker",
+		"route": "/products",
+		"icon": "bx bx-package"
+	},
+	{
+		"display_name": "Accessories",
+		"route": "/orders",
+		"icon": "bx bx-shape-circle"
+	},
+	{
+		"display_name": "Analytics",
+		"route": "/analytics",
+		"icon": "bx bx-bar-chart-alt"
+	},
+	{
+		"display_name": "categories",
+		"route": "/categories",
+		"icon": "bx bx-list-ol"
+	},
+	{
+		"display_name": "Cameras",
+		"route": "/discount",
+		"icon": "bx bx-cctv"
+	},
+	{
+		"display_name": "inventory",
+		"route": "/inventory",
+		"icon": "bx bx-store-alt"
+	},
+	{
+		"display_name": "settings",
+		"route": "/settings",
+		"icon": "bx bx-cog"
+	}
+]
